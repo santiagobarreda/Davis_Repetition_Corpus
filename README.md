@@ -1,2 +1,2 @@
-# Davis_Repetition_Corpus
+# Davis Repetition Corpus
 The Davis Repetition Corpus
